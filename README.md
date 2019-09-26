@@ -143,3 +143,4 @@ helm list
 terraform destroy -input=false -auto-approve -target helm_release.nginx-ingress && sleep 60 && \
 terraform destroy
 ```
+# gke-k8s-helm-tf
